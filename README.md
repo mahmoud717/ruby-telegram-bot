@@ -22,7 +22,7 @@ To get this project up and running locally, just clone the repo to your local di
 ## step 1
 
 After navigating to the folder run "gem install bundle" in the terminal
-then run "bundle"
+then run "bundle" to install all of the needed gems for the bot to work.
 
 ## step 2 
 To start the bot run "cd bin" then run "ruby bot"
