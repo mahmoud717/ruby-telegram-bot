@@ -5,7 +5,7 @@ class Commander
     @message = message
     @bot = bot
   end
- 
+
   def respond
     cmd = Commands.new(@message, @bot)
     case @message.text
