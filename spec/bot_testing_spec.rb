@@ -15,7 +15,7 @@ describe Telegram::Bot::Exceptions::ResponseError do
   end
 end
 RSpec.describe Telegram::Bot::Api do
-  let(:token) { '180956132:AAHU0_CeyQWOd6baBc9TibTPybxY9p1P8xo' }
+  let(:token) { '1230860766:AAFRmDQ91XJrp095Ro_2Hbrd_-nwRNlf-kM' }
   let(:endpoint) { 'getMe' }
   let(:api) { described_class.new(token) }
 
